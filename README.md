@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá mundo! Me chamo Rodrigo Lima e sou Desenvolvedor Full-Stack. 👨🏽‍💻🌎
 
-<!--
-**limarodrigo5/limarodrigo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estagiário de tecnologia na TIM Brasil.
+- 🌱 Estudando React e Node.js
+- 🧐 Interesse em C++, Arduíno, Java e IA.
+- 📫 limarodrigobr@gmail.com
+- 😄 Pronomes: Ele/dele
+- 📡 Me encontre nas redes por [aqui!](https://limarodrigo5.github.io/socialLinks/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  
+<img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
