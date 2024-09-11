@@ -1,7 +1,7 @@
 ### Olá mundo! Me chamo Rodrigo Lima e sou Desenvolvedor Full-Stack. 👨🏽‍💻🌎
 
 
-- 🔭 Atualmente estagiário de tecnologia na TIM Brasil.
+- 🔭 Atualmente O&M Technician II na TIM Brasil.
 - 🌱 Estudando React e Node.js
 - 🧐 Interesse em C++, Arduíno, Java e IA.
 - 📫 limarodrigobr@gmail.com
